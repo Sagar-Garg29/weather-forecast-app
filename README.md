@@ -33,6 +33,6 @@ Check out the live demo here:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/itzz-abhi/weatherForcast.git
+git clone https://github.com/Sagar-Garg29/weather-forecast-app
 cd weather-forecast-app
 
